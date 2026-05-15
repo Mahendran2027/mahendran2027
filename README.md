@@ -10,10 +10,10 @@ Technical Skills
 # Areas of Interest - Full Stack Development - Software Development -  Automation Systems  
 📌 Projects 
        Home Automation System A smart automation project used to control electrical devices efficiently. 
-       #Features - Device control - Automation concepts - User-friendly setup 
-       # Technologies Used - Arduino - Sensors - Basic Programming 
+     #Features - Device control - Automation concepts - User-friendly setup 
+       ## Technologies Used - Arduino - Sensors - Basic Programming 
        # 🔹 Java Programs Collection of Java practice programs including: - Arrays - Loops - Pattern Programs - OOP Concepts - Problem Solving  
-       # Currently Learning - Full Stack Development - Advanced Java - JavaScript - GitHub Project Management 
-       # 🎯 Goals - Improve coding skills - Build real-world projects - Contribute to open source - Get internship opportunities 
+       ## Currently Learning - Full Stack Development - Advanced Java - JavaScript - GitHub Project Management 
+       ## 🎯 Goals - Improve coding skills - Build real-world projects - Contribute to open source - Get internship opportunities 
          
 
