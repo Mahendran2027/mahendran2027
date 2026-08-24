@@ -1,128 +1,151 @@
+# 👋 Hey, I'm R. Mahendran
 
-# Hi 👋, I'm R. Mahendran
+### `ECE Student` • `Java Developer` • `Full-Stack Explorer` • `IoT Builder`
 
-### 🎓 Electronics and Communication Engineering Student | 💻 Java Developer | 🚀 Full Stack Learner
+> **Learning by building. Building by solving. Growing one commit at a time.** 🚀
 
-I am an Engineering student from India who is passionate about software development, problem-solving, and building real-world projects. I enjoy learning new technologies and continuously improving my technical skills.
+I'm an Electronics & Communication Engineering student from India with a growing passion for **software development, Java, full-stack engineering, and IoT**.
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Electronics and Communication Engineering Student
-- 💻 Passionate about Java Development and Software Engineering
-- 🌱 Currently learning Full Stack Development, Advanced Java, and JavaScript
-- 🔍 Improving Data Structures & Algorithms (DSA)
-- 🤝 Interested in Open Source Contributions
-- ⚡ Love building automation and IoT-based projects
-- 🎯 Goal: Become a Software Developer and contribute to impactful projects
+I enjoy turning ideas into working projects, breaking down complex problems, experimenting with new technologies, and continuously improving my code.
 
 ---
 
-## 🚀 Technical Skills
+## 🧑‍💻 What I'm Working On
 
-### 💻 Programming Languages
-
-- Java
-- Python
-- C++
-- JavaScript (Basics)
-
-### 🌐 Web Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-### 🛠️ Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Arduino IDE
-
-### 🗄️ Database
-
-- MySQL
+* ☕ Building a strong foundation in **Java & Advanced Java**
+* 🌐 Exploring **Full-Stack Development**
+* 🍃 Learning **Spring Boot & JavaScript**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🔧 Building practical **IoT & automation projects**
+* 🌱 Exploring **Open Source & collaborative development**
 
 ---
 
-## 📚 Currently Learning
+## ⚡ My Tech Stack
 
-- Full Stack Development
-- Advanced Java
-- Spring Boot
-- JavaScript
-- Git & GitHub Best Practices
-- Data Structures & Algorithms
+### Languages
 
----
+`Java` `Python` `C++` `JavaScript`
 
-## 📌 Projects
+### Web
 
-### 🏠 Home Automation System
+`HTML` `CSS` `JavaScript`
 
-A smart automation project designed to control electrical devices efficiently using Arduino and sensors.
+### Backend & Database
 
-#### Features
+`Java` `Spring Boot` `MySQL`
 
-- Smart Device Control
-- Automation Concepts
-- User-Friendly Design
-- Sensor Integration
+### Tools
 
-#### Technologies
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Arduino IDE`
 
-- Arduino
-- Sensors
-- Embedded Programming
+### Other Interests
+
+`DSA` `IoT` `Automation` `Problem Solving`
 
 ---
 
-### ☕ Java Programs Collection
+## 🚀 Things I've Built
 
-A collection of Java practice programs covering:
+### 🏠 Smart Home Automation
 
-- Arrays
-- Strings
-- Loops
-- Functions
-- Object-Oriented Programming
-- Pattern Programs
-- Exception Handling
-- Problem Solving
+An Arduino-based automation project focused on controlling electrical devices using sensors and embedded systems.
 
----
+**Highlights**
 
-## 🎯 Career Goals
+* ⚡ Smart device control
+* 📡 Sensor integration
+* 🤖 Automation logic
+* 🔌 Embedded programming
 
-- 💼 Secure a Software Development Internship
-- 💻 Become a Full Stack Java Developer
-- 🌱 Contribute to Open Source Projects
-- 🚀 Build Real-World Applications
-- 📈 Continuously Improve Coding Skills
+**Built with:** `Arduino` `Sensors` `Embedded Programming`
 
 ---
 
-## 💡 Areas of Interest
+### ☕ Java Practice Lab
 
-- Java Development
-- Full Stack Development
-- Software Engineering
-- IoT Projects
-- Automation Systems
-- Problem Solving
+A growing collection of Java programs created while strengthening my programming fundamentals and problem-solving skills.
 
----
+Covers:
 
-
-
-## 🌐 Connect with Me
-
-- GitHub: https://github.com/Mahendran2027
-- LinkedIn:https://www.linkedin.com/in/mahendran-r-78aa79332/
+`Arrays` • `Strings` • `Loops` • `Methods` • `OOP` • `Patterns` • `Exception Handling` • `Problem Solving`
 
 ---
 
-### ⭐ "Keep Learning, Keep Building, Keep Growing."
+## 📈 My Current Learning Path
+
+```text
+Java
+  ↓
+Advanced Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+MySQL
+  ↓
+JavaScript
+  ↓
+Full-Stack Development
+```
+
+Alongside development, I'm consistently working on **DSA, Git/GitHub, clean coding practices, and real-world projects**.
+
+---
+
+## 🎯 Where I'm Heading
+
+I'm working toward becoming a **Full-Stack Java Developer** and eventually contributing to software that solves meaningful real-world problems.
+
+### Short-term goals
+
+* 💼 Land a software development internship
+* 🧠 Become stronger at DSA
+* 🚀 Build production-style applications
+* 🌱 Make my first meaningful open-source contributions
+* 🤝 Learn from and collaborate with other developers
+
+### Long-term vision
+
+> **Become a developer who doesn't just write code, but understands the problem behind it.**
+
+---
+
+## 💡 What Excites Me
+
+```text
+☕ Java & Backend Development
+🌐 Full-Stack Applications
+🧠 Problem Solving & DSA
+🤖 IoT & Automation
+🔧 Building Useful Things
+🌱 Open Source
+```
+
+---
+
+## 🌐 Let's Connect
+
+* 💻 **GitHub:** [Mahendran2027](https://github.com/Mahendran2027)
+* 💼 **LinkedIn:** [R. Mahendran](https://www.linkedin.com/in/mahendran-r-78aa79332/)
+
+I'm always interested in **learning, building, collaborating, and connecting with fellow developers.**
+
+---
+
+## ⚡ Currently
+
+```text
+Learning  →  Java + Spring Boot + JavaScript
+Building  →  Full-Stack & IoT Projects
+Improving →  DSA + Problem Solving
+Exploring  →  Open Source
+Dreaming   →  Software Engineering 🚀
+```
+
+---
+
+### ⭐ Keep Learning. Keep Building. Keep Evolving.
+
+**One project. One problem. One commit at a time.**
