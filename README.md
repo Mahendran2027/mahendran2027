@@ -25,7 +25,7 @@ I enjoy turning ideas into working projects, breaking down complex problems, exp
 
 ### Languages
 
-`Java` `Python` `C++` `JavaScript`
+`Java` 'C#'
 
 ### Web
 
